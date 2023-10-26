@@ -28,11 +28,10 @@ This open-source travel and tour website project is a web application created us
 No special installation steps are needed. Simply clone the project and run it in a web browser to get started.
 
 ## Deploy
-
+https://emrhdmn.github.io/holidaywebsite-main/
 
 ## Screen
-
-
+![](/screen.gif) 
 
 ## Contact
 
